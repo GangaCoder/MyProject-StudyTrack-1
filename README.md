@@ -77,5 +77,5 @@ python manage.py runserver
 
 ## Contact
 
-- Name - Arpan Cherian 
-- Mail - arpanjcherian@gmail.com
+- Name - Gangadhar
+- Mail - posapallig@gmail.com
